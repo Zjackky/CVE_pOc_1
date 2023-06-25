@@ -14,11 +14,13 @@
 
 websGetVar receives user parameters and enters the SetLang2Config function. sprintf concatenates into the get_cmd_printf function to execute commands
 
-![image-20230626002033887](C:\Users\Zachariah.Jack\Desktop\tmp_wp_picture\image-20230626002033887.png)
+![image](https://github.com/Zjackky/CVE_pOc_1/assets/134998334/355d3822-9301-4ee2-8907-903f0be5678e)
+
+
+![image](https://github.com/Zjackky/CVE_pOc_1/assets/134998334/b23d16d5-0b63-43f4-b157-a8d7a6ab80c0)
 
 
 
-![image-20230626002044210](C:\Users\Zachariah.Jack\Desktop\tmp_wp_picture\image-20230626002044210.png)
 
 
 
